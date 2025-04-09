@@ -1,4 +1,6 @@
-# iclang-rebuttal
+# IClang-rebuttal
+
+The vast majority of commits in LLVM and CPython involve changes to only one function. Therefore, we only conduct experiments on SQLite, Z3, and CVC5 here.
 
 (1) SQLite
 
